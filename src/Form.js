@@ -55,6 +55,7 @@ class Form extends Component {
                     value={title} 
                     onChange={this.handleChange} />
                     
+                    
                 <button type="submit">
                     Submit
                 </button>
